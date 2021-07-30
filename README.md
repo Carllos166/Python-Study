@@ -1,2 +1,2 @@
-# Python-Study
+# Jogos
 Estudo
