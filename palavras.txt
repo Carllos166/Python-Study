@@ -5,3 +5,15 @@ uva
 abacaxi
 melao
 pera
+framboesa
+lichia
+maracuja
+pitaia
+kiwi
+abacate
+cereja
+tomate
+laranja
+caqui
+manga
+toranja
